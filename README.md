@@ -1,4 +1,4 @@
-TOF050F Modbus Interface
+# TOF050F Modbus Interface
 
 This repository contains a Python script designed for interfacing with a TOF050F Time-of-Flight (ToF) ranging sensor via the Modbus protocol. The script facilitates communication and data retrieval from the TOF050F sensor, leveraging the Modbus RTU protocol for efficient transmission of information.
 
